@@ -1,4 +1,4 @@
-package dp;
+package algorithm.dp;
 
 /**
  * @author zuoshengli

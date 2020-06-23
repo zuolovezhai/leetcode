@@ -1,4 +1,4 @@
-package backtrack;
+package algorithm.backtrack;
 
 /**
  * @Description
